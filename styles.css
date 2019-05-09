@@ -2,14 +2,14 @@ body {
     background-image: url('images/rollingloud.jpg');
     color: #FFFFFF;
     background-size: cover;
-    text-align: left;
+    text-align: center;
     vertical-align: bottom;
     text-shadow: #00000;
 }
 .button {
     background-color: #000000;
     border: grey;
-    color: red;
+    color: grey;
     text-align: center;
     text-decoration: none;
     display: inline-block;
